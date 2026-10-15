@@ -1,39 +1,43 @@
+<div align="center">
 
+<img src="./assets/beach-header.svg" width="100%" alt="SoonHyung Lee" />
 
-<div align='center'>
-
-<img src="https://user-images.githubusercontent.com/26598708/126892484-eb47938a-5d4e-4bcb-b3fe-fdaeab5f8b48.png" height="150px">
-  
-# 👽👾 SoonHyung GitHub 🤖😀
-
-<div align='left'>
-   Unity를 시작으로 게임과 사회에 대한 솔루션 개발에 관심 갖고 게임 및 웹 분야 프로그래밍을 공부해왔습니다.
-   
-   사용자에게 좋은 경험을 주는 SW 최적화 및 설계에 대해 관심 갖고 현재는 서버 개발자를 목표로 하고 있습니다.
 </div>
 
 <br/>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnsgud9&theme=tokyonight&show_icons=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnsgud9&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
-|---:|:---|
+## 🎯 Focus
 
-# **🛠️ Main Tech Stack 🛠️**
+어떤 분야든 구현보다 **아키텍처**를 먼저 생각합니다.
+설계 원칙과 경계를 먼저 정하고, 필요한 만큼만 단순하게 구조를 만들며, 비용과 운영까지 고려해 선택합니다.
 
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>&nbsp;
+백엔드와 인프라를 중심으로 다음 분야에 관심을 두고 있으며, 로컬 LLM과 생성형 이미지는 직접 구축해 실험합니다.
 
+- **Cloud & Local Infrastructure**
+- **Local LLM**
+- **Generative Image**
+- **Backend Architecture**
+- **Game Development**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp;
+## 🛠 Tech Stack
 
-
-
-# **Other**
-<a href="https://rogong.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-D95C33?style=flat-square&logo=blog Pi&logoColor=white"/></a>&nbsp;
-<a href="https://lace-softball-2f7.notion.site/SoonHyung-Lee-2b07ef132eae4a5cb4d38e79e28c0569?pvs=4"><img src="https://img.shields.io/badge/Profile-0A1172?style=flat-square&logo=blog Pi&logoColor=white"/></a>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,js,ts,nodejs,nestjs,react,mongodb,mysql,git,cloudflare,vercel,dotnet,prisma,postgres,aws,docker&perline=9&theme=dark" alt="C#, Unity, JavaScript, TypeScript, Node.js, NestJS, React, MongoDB, MySQL, Git, Cloudflare, Vercel, ASP.NET, Prisma, PostgreSQL, AWS, Docker" />
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=tnsgud9&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=contributions,prs_merged&theme=solarized-light&title_color=1497AE&icon_color=1497AE&text_color=0B4F7A&ring_color=3FD0C8&hide_border=true&border_radius=14" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tnsgud9&layout=compact&langs_count=6&include_all_commits=true&theme=solarized-light&title_color=1497AE&icon_color=1497AE&text_color=0B4F7A&ring_color=3FD0C8&hide_border=true&border_radius=14" alt="Top Languages" />
+</div>
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://rogong.tistory.com"><img src="https://img.shields.io/badge/Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" /></a>
+<a href="https://lace-softball-2f7.notion.site/SoonHyung-Lee-2b07ef132eae4a5cb4d38e79e28c0569?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:tnsgud9@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" /></a>
+
+</div>
